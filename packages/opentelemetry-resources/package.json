@@ -1,5 +1,5 @@
 {
-  "name": "@opentelemetry/resources",
+  "name": "@m-tu/otel-js-resources",
   "version": "1.9.1",
   "description": "OpenTelemetry SDK resources",
   "main": "build/src/index.js",
@@ -12,7 +12,7 @@
     "./build/src/platform/index.js": "./build/src/platform/browser/index.js"
   },
   "types": "build/src/index.d.ts",
-  "repository": "open-telemetry/opentelemetry-js",
+  "repository": "mhennoch/opentelemetry-js",
   "scripts": {
     "prepublishOnly": "npm run compile",
     "compile": "tsc --build tsconfig.json tsconfig.esm.json tsconfig.esnext.json",
@@ -92,6 +92,6 @@
     "@opentelemetry/core": "1.9.1",
     "@opentelemetry/semantic-conventions": "1.9.1"
   },
-  "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/packages/opentelemetry-resources",
+  "homepage": "https://github.com/mhennoch/opentelemetry-js/tree/main/packages/opentelemetry-resources",
   "sideEffects": false
 }

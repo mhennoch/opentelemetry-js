@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../../../api"
-    },
-    {
-      "path": "../../../packages/opentelemetry-core"
     }
   ]
 }

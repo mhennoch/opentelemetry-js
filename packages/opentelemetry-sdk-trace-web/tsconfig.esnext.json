@@ -16,13 +16,7 @@
       "path": "../opentelemetry-context-zone"
     },
     {
-      "path": "../opentelemetry-core"
-    },
-    {
       "path": "../opentelemetry-propagator-b3"
-    },
-    {
-      "path": "../opentelemetry-resources"
     },
     {
       "path": "../opentelemetry-sdk-trace-base"

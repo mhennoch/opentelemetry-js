@@ -13,12 +13,6 @@
       "path": "../../api"
     },
     {
-      "path": "../opentelemetry-core"
-    },
-    {
-      "path": "../opentelemetry-resources"
-    },
-    {
       "path": "../opentelemetry-sdk-trace-base"
     },
     {
